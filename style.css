@@ -69,6 +69,8 @@ nav ul li a:hover::after{
 }
 
 .header-text h1{
+    text-align: center; /* Center align the text */
+    padding: 20px; /* Adjust the padding as needed */
     font-size: 60px;
     margin-top: 20px;
 }
